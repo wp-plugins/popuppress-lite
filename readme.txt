@@ -2,7 +2,7 @@
 Contributors: maxlopez
 Donate link: http://popup-press.com/
 Tags: alert box, gallery, gallery popup, jquery modal, lightbox, modal, modal box, modal windows, popup windows, pop-up, popup, popups, pop-ups, popup ads, popup box, responsive, pop-over, slider popup, slideshow, wordpress, wordpress popup, auto open, automatic popup, custom popup, popup message, dialog box, form modal, onclick popup
-Requires at least: 3.2
+Requires at least: 3.5
 Tested up to: 4.1.1
 Stable tag: 1.0
 License: GPLv2 or later
